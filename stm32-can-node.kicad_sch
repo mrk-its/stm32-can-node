@@ -17293,7 +17293,7 @@
 		)
 	)
 	(sheet
-		(at 76.2 184.15)
+		(at 61.595 183.515)
 		(size 14.605 9.525)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17309,7 +17309,7 @@
 		)
 		(uuid "04bc2e7c-ff7e-4bc9-956b-03cc24593b11")
 		(property "Sheetname" "misc"
-			(at 76.2 183.4384 0)
+			(at 61.595 182.8034 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17318,7 +17318,7 @@
 			)
 		)
 		(property "Sheetfile" "misc.kicad_sch"
-			(at 76.2 194.2596 0)
+			(at 61.595 193.6246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
