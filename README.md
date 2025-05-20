@@ -10,6 +10,9 @@
 * separate SWD connector for flashing / debugging
 * small form factor (40mm x 25mm)
 
+![3d-view](images/3d-view.png "3d-view")
+
 ![schematics](images/schematics.png "Schematics")
 
-![3d-view](images/3d-view.png "3d-view")
+![schematics](images/pcb.png "PCB")
+
